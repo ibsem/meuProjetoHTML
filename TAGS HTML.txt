@@ -1,0 +1,10 @@
+<HTML> - 
+<head> - 
+<body> - 
+<header> - 
+<footer> - 
+<main> - 
+<h1> - 
+<div> - 
+<p> - 
+<ul> <li>

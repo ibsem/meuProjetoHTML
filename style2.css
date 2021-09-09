@@ -1,0 +1,36 @@
+.paragr-main{
+	background: yellow;
+}
+.paragr-footer{
+	font-family: "arialnarrow";
+	font-size: 8px;
+	background: #00ffa4;
+	text-align: right;
+}
+
+.listabeneficios{
+	font-family: "arial";
+	font-size: 11px;
+}
+
+#logo{
+	width: 60px;
+
+
+}
+.tabela{
+	border: 1px;
+	
+}
+
+p{
+}
+h1{
+	font-size: 18px;
+}
+h2{
+	font-size: 15px;
+}
+h3{
+	font-size: 12px;
+}
