@@ -1,0 +1,21 @@
+<HTML> - 
+<head> - 
+<body> - 
+<header> - 
+<footer> - 
+<main> - 
+<h1> <h2> <h3>- 
+<div> - 
+<p> - 
+<ul> <li>
+	<img>
+
+<table>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>	
+</table>
+
+	id=""
+	class=""

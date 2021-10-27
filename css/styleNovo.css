@@ -1,0 +1,42 @@
+body { position: flex;
+	font-family: verdana;
+	
+}
+header {
+	font-family: verdana;
+	
+}
+
+h1{
+	font-size: 14px;
+	}
+.row {
+  display: flex;
+}
+
+dif.row{
+	vertical-align: middle;
+}
+
+div.column {
+	padding: 5px;
+	border: outset;
+	border-width: 0px;
+	border-color: black;
+	float: 100%;
+	width: 100%;
+	vertical-align: middle;
+
+}
+
+#solucao {
+	float: 100%;
+	width: 70%;
+}
+
+#imagemSolucao{
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+}
+
